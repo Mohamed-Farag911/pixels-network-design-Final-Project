@@ -22,7 +22,7 @@ The objective was to design and configure a functional, secure, and efficient ne
 - `Images/` → Screenshots of the configurations.
 
 ## Video Simulation
-[Watch here]([https://drive.google.com/file/d/1PfFKBp8gCERE_C6bWhowu-uW2lrxBRdM/view](https://drive.google.com/file/d/1-jSecWljj0HqH9_5lAGbKDPRvhhHsbQa/view))
+[Watch here]((https://drive.google.com/file/d/1PfFKBp8gCERE_C6bWhowu-uW2lrxBRdM/view](https://drive.google.com/file/d/1-jSecWljj0HqH9_5lAGbKDPRvhhHsbQa/view))
 
 ---
 
