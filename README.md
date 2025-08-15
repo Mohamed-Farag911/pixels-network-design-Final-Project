@@ -1,5 +1,5 @@
 # pixels-network-design-Final-Project
-# Pixels Egypt - Network Design Project
+
 
 This is my final project for the **Mini-Course by Pixels Egypt** during the mid-year break 2025.  
 The objective was to design and configure a functional, secure, and efficient network for multiple committees in Pixels Egypt’s workspace.
@@ -22,7 +22,7 @@ The objective was to design and configure a functional, secure, and efficient ne
 - `Images/` → Screenshots of the configurations.
 
 ## Video Simulation
-[Watch here](https://drive.google.com/file/d/1PfFKBp8gCERE_C6bWhowu-uW2lrxBRdM/view)
+[Watch here]([https://drive.google.com/file/d/1PfFKBp8gCERE_C6bWhowu-uW2lrxBRdM/view](https://drive.google.com/file/d/1-jSecWljj0HqH9_5lAGbKDPRvhhHsbQa/view))
 
 ---
 
